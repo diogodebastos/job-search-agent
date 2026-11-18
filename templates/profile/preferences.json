@@ -1,0 +1,12 @@
+{
+  "_note": "Private. What you are looking for. Claude compares every posting against this.",
+  "target_roles": ["Digital Marketing Manager", "Performance Marketing Lead"],
+  "target_companies": [],
+  "locations": ["Lisbon", "Remote (Portugal)"],
+  "work_mode": "hybrid or remote",
+  "languages_for_work": ["Portuguese", "English"],
+  "pay_floor": { "amount": null, "currency": "EUR", "period": "year, gross", "note": "Below this, Claude warns you before you spend an application." },
+  "deal_breakers": [],
+  "nice_to_have": [],
+  "market": "portugal"
+}
